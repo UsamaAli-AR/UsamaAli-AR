@@ -1,4 +1,7 @@
 <!-- Header Section -->
+
+
+
 <h1 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Usama Ali <a href="https://dly.to/ipPjMTS4xCv">Dev</a></h1>
 <h3 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6c757d;"> I am a young computer science student in Pakistan 🇵🇰 with a passion for technology's frontiers;<br>
 <ul style="list-style-type: none; padding-left: 0;">
@@ -59,6 +62,9 @@
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[usamaaliarofficial@gmail.com
 ](mailto:usamaaliarofficial@gmail.com)**
+
+
+⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5 %
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UsamaAli-AR&show_icons=true&locale=en&layout=compact" alt="UsamaAli-AR" /></p>
