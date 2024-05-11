@@ -60,4 +60,11 @@
 - 📫 How to reach me **[usamaaliarofficial@gmail.com
 ](mailto:usamaaliarofficial@gmail.com)**
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UsamaAli-AR&show_icons=true&locale=en&layout=compact" alt="UsamaAli-AR" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaAli-AR&show_icons=true&locale=en" alt="UsamaAli-AR" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaAli-AR&" alt="UsamaAli-AR" /></p>
+
 <h3 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Join our Whatsapp Community for daily Updates 👋<a href=" https://whatsapp.com/channel/0029VaLTO6AKrWR0j7YwdT2R ">Future Programmers</a></h3>
